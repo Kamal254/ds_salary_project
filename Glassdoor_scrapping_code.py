@@ -24,11 +24,6 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
 
         #Let the page load. Change this number based on your internet speed.
         #Or, wait until the webpage is loaded, instead of hardcoding it.
-        time.sleep(15)
-        try:
-            driver.find_element(By.CLASS_NAME, "d-flex flex-column pl-sm css-1buaf54 job-search-key-1mn3dn8 e1rrn5ka0").click()
-        except ElementClickInterceptedException:
-            pass
         time.sleep(slp_time)
         try:
             driver.find_element(By.CSS_SELECTOR, '[alt="Close"]').click() #clicking to the X.
