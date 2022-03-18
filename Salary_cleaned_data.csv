@@ -1,0 +1,1157 @@
+index,Job Title,Salary Estimate,Rating,Company Name,Size,Founded,Type of ownership,Industry,Sector,Revenue,Job_country,Job_state,Company_Year,python_yn,visualization_yn,Excel_yn,analysis_yn,communication_yn,aws_yn
+1,Senior Data Scientist,140363,3.6,"Shift
+",1001 to 5000 Employees,2014,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Los Angeles, CA,8,0,0,0,0,0,0
+4,Staff Data Scientist,195000,3.0,"DispatchHealth
+",1001 to 5000 Employees,2015,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,San Francisco, CA,7,0,0,0,0,0,0
+6,Entry Level Data Scientist: 2022,92332,4.0,"IBM
+",10000+ Employees,1911,Company - Public,IT Services,Information Technology,$10+ billion (USD),Research Triangle Park, NC,111,0,0,0,0,0,0
+7,Data Scientist,108739,4.0,"Nativo
+",51 to 200 Employees,2010,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Los Angeles, CA,12,0,0,0,0,1,0
+8,Senior Data Scientist (Remote),142500,3.3,"Celsius
+",201 to 500 Employees,2017,Company - Private,Lending,Finance,Unknown / Non-Applicable,Hoboken, NJ,5,0,0,0,0,0,0
+9,Data Scientist,117492,4.0,"SunPower
+",5001 to 10000 Employees,1985,Company - Public,Energy,"Oil, Gas, Energy & Utilities",$2 to $5 billion (USD),Richmond, CA,37,0,0,0,0,1,0
+10,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+13,Data Scientist,97778,4.5,"Housecall Pro
+",201 to 500 Employees,2013,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,San Diego, CA,9,0,0,0,0,0,0
+15,Data Scientist,97025,5.0,"DK Consulting, LLC
+",1 to 50 Employees,2003,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),Baltimore, MD,19,0,0,0,0,0,0
+21,Senior Data Scientist,142500,4.5,"Rocket Travel, Inc.
+",51 to 200 Employees,2012,Company - Public,Travel Agencies,Travel & Tourism,Unknown / Non-Applicable,New York, NY,10,1,0,0,0,0,0
+22,Lead Data Scientist,170000,3.8,"Infinity Consulting Solutions, Inc.
+",501 to 1000 Employees,2001,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),Miami, FL,21,0,0,0,1,0,0
+23,Senior Data Scientist,122030,5.0,"Afresh
+",51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,San Francisco, CA,5,0,0,0,0,0,0
+26,Data Scientist,114867,4.0,"Toyota
+",10000+ Employees,1957,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),Plano, TX,65,0,0,0,0,1,0
+29,Senior Data Scientist,147455,4.9,"Signifyd
+",201 to 500 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),San Jose, CA,11,0,0,0,0,0,0
+30,AWS Data Scientist,167500,3.8,"Amazon Web Services, Inc.
+",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),Remote,Remote,28,1,0,0,0,1,1
+31,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+32,Cybersecurity Data Scientist - Bot Management,106721,3.9,"Cloudflare
+",501 to 1000 Employees,2010,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Austin, TX,12,0,0,0,0,0,0
+33,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+34,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+35,Sr. Data Scientist,134274,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+36,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+37,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+38,"Data Scientist, Freemium Innovation",139731,4.3,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+41,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+42,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+43,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+44,Data Scientist I,67548,4.1,"University of Kentucky
+",10000+ Employees,1865,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),Lexington, KY,157,0,0,0,0,0,0
+45,Senior Data Scientist (remote),156800,3.9,"Liberty Mutual Insurance
+",10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),Remote,Remote,110,0,0,0,0,0,0
+46,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+48,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+49,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Remote,Remote,23,0,0,0,0,0,0
+50,Senior Data Scientist,181500,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+51,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+53,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+54,Senior Data Scientist,165000,3.0,"DispatchHealth
+",1001 to 5000 Employees,2015,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,San Francisco, CA,7,0,0,0,0,0,0
+55,Sr Data Scientist,144552,3.9,"Dexcom
+",5001 to 10000 Employees,1999,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),San Diego, CA,23,0,0,0,0,0,0
+56,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+57,Statistician,108528,3.8,"US Customs and Border Protection
+",10000+ Employees,1927,Government,Federal Agencies,Government,Unknown / Non-Applicable,Los Angeles, CA,95,0,0,0,0,0,0
+58,Senior Data Scientist,93606,4.7,"MX Technologies Inc.
+",501 to 1000 Employees,2010,Company - Private,Financial Analytics & Research,Finance,Unknown / Non-Applicable,Lehi, UT,12,0,0,0,0,0,0
+59,Senior Data & Applied Scientist,130357,4.4,"Microsoft
+",10000+ Employees,1975,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),Cambridge, MA,47,0,0,0,0,0,0
+60,AWS Data Scientist,167500,3.8,"Amazon Web Services, Inc.
+",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),Remote,Remote,28,1,0,0,0,1,1
+61,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+62,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+63,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+64,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+65,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+66,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+67,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+68,Statistician,108528,3.8,"US Customs and Border Protection
+",10000+ Employees,1927,Government,Federal Agencies,Government,Unknown / Non-Applicable,Los Angeles, CA,95,0,0,0,0,0,0
+69,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+71,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+72,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+73,"Data Scientist, Marketing Science Research: Creative Shop",114330,4.3,"Meta
+",10000+ Employees,2004,Company - Public,Internet,Information Technology,$10+ billion (USD),San Francisco, CA,18,0,0,0,0,0,0
+74,Senior Data Scientist,181500,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+75,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+76,Data Scientist,111199,3.4,"Cerebral
+",1001 to 5000 Employees,2020,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),San Francisco, CA,2,0,0,0,0,0,0
+77,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+78,"Senior Data Scientist - People and Organizational Performance, Org Analytics",125043,4.4,"McKinsey & Company
+",10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,Atlanta, GA,96,0,0,0,0,0,0
+79,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Remote,Remote,23,0,0,0,0,0,0
+80,Principal Data Scientist,154000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Colorado,Colorado,22,0,0,0,0,1,0
+81,Data Science Manager,115404,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+82,Senior Data Scientist (remote),156800,3.9,"Liberty Mutual Insurance
+",10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),Remote,Remote,110,0,0,0,0,0,0
+84,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+85,"Data Scientist, Product Intelligence",144420,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+86,Senior Data Scientist - Ranking Team,180000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),San Francisco, CA,18,0,1,0,0,0,0
+87,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+88,Data Scientist I,108578,3.3,"GEICO
+",10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),Chevy Chase, MD,86,1,1,0,1,0,0
+89,Sr Data Scientist (USA Remote),102356,4.3,"Dell Technologies
+",10000+ Employees,1984,Company - Public,IT Services,Information Technology,$10+ billion (USD),Round Rock, TX,38,0,0,0,0,0,0
+90,AWS Data Scientist,167500,3.8,"Amazon Web Services, Inc.
+",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),Remote,Remote,28,1,0,0,0,1,1
+92,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+93,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+94,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+95,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+96,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+97,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+98,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+99,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+100,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+101,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+102,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+103,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+104,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Remote,Remote,23,0,0,0,0,0,0
+105,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+106,"Data Scientist, Marketing Science Research: Creative Shop",114330,4.3,"Meta
+",10000+ Employees,2004,Company - Public,Internet,Information Technology,$10+ billion (USD),San Francisco, CA,18,0,0,0,0,0,0
+107,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+108,Senior Data Scientist,181500,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+109,Data Scientist,111199,3.4,"Cerebral
+",1001 to 5000 Employees,2020,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),San Francisco, CA,2,0,0,0,0,0,0
+110,VP - Data Scientist,116904,4.0,"Morgan Stanley
+",10000+ Employees,1935,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Alpharetta, GA,87,0,0,0,0,0,0
+113,"Senior Data Scientist - Analytics, FinCrimes",130758,4.0,"Robinhood
+",1001 to 5000 Employees,2013,Company - Public,Brokerage Services,Finance,Unknown / Non-Applicable,Menlo Park, CA,9,0,0,0,0,0,0
+114,Principal Data Scientist,154000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Colorado,Colorado,22,0,0,0,0,1,0
+115,Senior Data Scientist (remote),156800,3.9,"Liberty Mutual Insurance
+",10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),Remote,Remote,110,0,0,0,0,0,0
+116,"Data Scientist, Product Intelligence",144420,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+117,Data Scientist I,108578,3.3,"GEICO
+",10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),Chevy Chase, MD,86,1,1,0,1,0,0
+118,Senior Data Scientist - Ranking Team,180000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),San Francisco, CA,18,0,1,0,0,0,0
+119,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+120,AWS Data Scientist,167500,3.8,"Amazon Web Services, Inc.
+",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),Remote,Remote,28,1,0,0,0,1,1
+121,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+122,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+124,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+125,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+126,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+127,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+128,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+129,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+130,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Remote,Remote,23,0,0,0,0,0,0
+131,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+132,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+133,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+134,"Data Scientist, Marketing Science Research: Creative Shop",114330,4.3,"Meta
+",10000+ Employees,2004,Company - Public,Internet,Information Technology,$10+ billion (USD),San Francisco, CA,18,0,0,0,0,0,0
+135,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+136,Lead Data Scientist,133311,4.1,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+137,"Data Scientist, Product Intelligence",144420,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+139,Senior Data Scientist,181500,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+140,VP - Data Scientist,116904,4.0,"Morgan Stanley
+",10000+ Employees,1935,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Alpharetta, GA,87,0,0,0,0,0,0
+141,Data Scientist,111199,3.4,"Cerebral
+",1001 to 5000 Employees,2020,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),San Francisco, CA,2,0,0,0,0,0,0
+143,Manager - Statistical Analyst,132750,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+144,Senior Data Scientist - Ranking Team,180000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),San Francisco, CA,18,0,1,0,0,0,0
+145,"Data Scientist, Basketball Integrity",91252,3.9,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+146,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+147,"Senior Data Scientist - Analytics, FinCrimes",130758,4.0,"Robinhood
+",1001 to 5000 Employees,2013,Company - Public,Brokerage Services,Finance,Unknown / Non-Applicable,Menlo Park, CA,9,0,0,0,0,0,0
+148,Senior Data Scientist (remote),156800,3.9,"Liberty Mutual Insurance
+",10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),Remote,Remote,110,0,0,0,0,0,0
+149,Data Scientist,121859,3.0,"Quantapore
+",1 to 50 Employees,2009,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),San Francisco, CA,13,1,0,0,1,0,0
+150,AWS Data Scientist,167500,3.8,"Amazon Web Services, Inc.
+",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),Remote,Remote,28,1,0,0,0,1,1
+151,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+153,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+154,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+155,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+156,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+157,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+158,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+159,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Remote,Remote,23,0,0,0,0,0,0
+160,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+161,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+162,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+164,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+165,"Data Scientist, Basketball Integrity",91252,3.9,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+166,VP - Data Scientist,116904,4.0,"Morgan Stanley
+",10000+ Employees,1935,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Alpharetta, GA,87,0,0,0,0,0,0
+168,"Data Scientist, Product Intelligence",144420,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+169,"Data Scientist, Marketing Science Research: Creative Shop",114330,4.3,"Meta
+",10000+ Employees,2004,Company - Public,Internet,Information Technology,$10+ billion (USD),San Francisco, CA,18,0,0,0,0,0,0
+170,Senior Data Scientist (remote),156800,3.9,"Liberty Mutual Insurance
+",10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),Remote,Remote,110,0,0,0,0,0,0
+171,"Senior Data Scientist - Analytics, FinCrimes",130758,4.0,"Robinhood
+",1001 to 5000 Employees,2013,Company - Public,Brokerage Services,Finance,Unknown / Non-Applicable,Menlo Park, CA,9,0,0,0,0,0,0
+172,Data Scientist I,108578,3.3,"GEICO
+",10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),Chevy Chase, MD,86,1,1,0,1,0,0
+173,Data Scientist - Intermediate,107163,4.1,"Bayer
+",10000+ Employees,1863,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),San Francisco, CA,159,1,0,1,0,0,0
+174,Data Scientist,111199,3.4,"Cerebral
+",1001 to 5000 Employees,2020,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),San Francisco, CA,2,0,0,0,0,0,0
+175,Data Scientist,121859,3.0,"Quantapore
+",1 to 50 Employees,2009,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),San Francisco, CA,13,1,0,0,1,0,0
+176,Sr Data Scientist (USA Remote),102356,4.3,"Dell Technologies
+",10000+ Employees,1984,Company - Public,IT Services,Information Technology,$10+ billion (USD),Round Rock, TX,38,0,0,0,0,0,0
+177,"Staff (Lead) Data Scientist (Remote, United States)",109095,4.3,"Shopify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,$2 to $5 billion (USD),Dallas, TX,16,0,0,0,0,0,0
+178,Senior Data Analyst,97104,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+180,AWS Data Scientist,167500,3.8,"Amazon Web Services, Inc.
+",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),Remote,Remote,28,1,0,0,0,1,1
+181,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+183,"Data Scientist, Freemium Innovation",139731,4.3,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+184,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+185,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+186,"Senior Data Scientist - People and Organizational Performance, Org Analytics",125043,4.4,"McKinsey & Company
+",10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,Atlanta, GA,96,0,0,0,0,0,0
+187,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+188,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+189,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+191,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+192,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+193,"Data Scientist, Marketing Science Research: Creative Shop",114330,4.3,"Meta
+",10000+ Employees,2004,Company - Public,Internet,Information Technology,$10+ billion (USD),San Francisco, CA,18,0,0,0,0,0,0
+194,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+195,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+196,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Remote,Remote,23,0,0,0,0,0,0
+197,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+198,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+199,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+200,Sr. Data Scientist,134274,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+201,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+202,Senior Data Scientist,181500,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+204,Lead Data Scientist,133311,4.5,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+205,Senior Data Analyst,97104,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+209,Senior Data Scientist (remote),156800,3.9,"Liberty Mutual Insurance
+",10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),Remote,Remote,110,0,0,0,0,0,0
+210,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+212,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+213,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+214,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+215,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+216,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+217,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Remote,Remote,23,0,0,0,0,0,0
+218,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+219,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+220,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+221,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+222,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+223,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+225,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+226,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+227,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+231,Sr. Data Scientist,134274,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+232,Senior Data Analyst,97104,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+233,"Data Scientist, Marketing Science Research: Creative Shop",114330,4.3,"Meta
+",10000+ Employees,2004,Company - Public,Internet,Information Technology,$10+ billion (USD),San Francisco, CA,18,0,0,0,0,0,0
+234,Data Scientist,121859,3.0,"Quantapore
+",1 to 50 Employees,2009,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),San Francisco, CA,13,1,0,0,1,0,0
+235,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+236,"Lead Data Scientist, Creator Marketing",150981,4.3,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+237,"Data Scientist, Product Intelligence",144420,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+238,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+239,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+240,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+241,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.6,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+242,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+244,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+245,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Remote,Remote,23,0,0,0,0,0,0
+246,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+247,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+248,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+249,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+251,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+253,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+254,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+255,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+256,"Data Scientist - Tiktok Ads, Growth Marketing",136562,4.3,"ByteDance
+",10000+ Employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,10,0,0,0,0,0,0
+257,Data Scientist I,143696,3.8,"Amazon.com Services LLC
+",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),Cupertino, CA,28,1,0,0,1,0,1
+258,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+259,"Data Scientist, Marketing Science Research: Creative Shop",114330,4.3,"Meta
+",10000+ Employees,2004,Company - Public,Internet,Information Technology,$10+ billion (USD),San Francisco, CA,18,0,0,0,0,0,0
+260,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+262,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+263,Data Scientist,111199,3.4,"Cerebral
+",1001 to 5000 Employees,2020,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),San Francisco, CA,2,0,0,0,0,0,0
+266,Data Scientist,121859,3.0,"Quantapore
+",1 to 50 Employees,2009,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),San Francisco, CA,13,1,0,0,1,0,0
+268,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+269,Sr. Data Scientist,134274,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+270,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+271,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+272,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+273,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Remote,Remote,23,0,0,0,0,0,0
+274,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+276,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+277,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+278,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+279,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+280,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+281,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+283,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+284,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+285,"Data Scientist - Tiktok Ads, Growth Marketing",136562,4.2,"ByteDance
+",10000+ Employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,10,0,0,0,0,0,0
+286,Data Scientist I,143696,3.8,"Amazon.com Services LLC
+",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),Cupertino, CA,28,1,0,0,1,0,1
+287,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+289,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+290,Data Scientist,111199,3.4,"Cerebral
+",1001 to 5000 Employees,2020,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),San Francisco, CA,2,0,0,0,0,0,0
+292,Data Scientist,121859,3.0,"Quantapore
+",1 to 50 Employees,2009,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),San Francisco, CA,13,1,0,0,1,0,0
+295,Data Scientist,122631,4.4,"Denken Solutions Inc
+",201 to 500 Employees,2010,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+296,Senior Data Scientist - Ranking Team,180000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),San Francisco, CA,18,0,1,0,0,0,0
+297,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+298,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+299,Senior Data Scientist,181500,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+300,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+301,AWS Data Scientist,167500,3.8,"Amazon Web Services, Inc.
+",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),Remote,Remote,28,1,0,0,0,1,1
+302,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+303,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+304,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Denver, CO,23,0,0,0,0,0,0
+305,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+306,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+307,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+308,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+310,Principal Data Scientist - Engineering Analytics,170000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Nevada,Nevada,22,0,1,0,1,1,0
+311,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+312,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+313,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+314,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+316,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+317,"Data Scientist, Marketing Science Research: Creative Shop",114330,4.3,"Meta
+",10000+ Employees,2004,Company - Public,Internet,Information Technology,$10+ billion (USD),San Francisco, CA,18,0,0,0,0,0,0
+320,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+322,Data Scientist,121859,3.0,"Quantapore
+",1 to 50 Employees,2009,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),San Francisco, CA,13,1,0,0,1,0,0
+323,Data Scientist,111199,3.4,"Cerebral
+",1001 to 5000 Employees,2020,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),San Francisco, CA,2,0,0,0,0,0,0
+324,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+326,Senior Data Scientist,181500,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+327,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+328,"Data Scientist, Basketball Integrity",91252,3.9,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+329,Sr. Data Scientist,134274,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+330,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+331,AWS Data Scientist,167500,3.8,"Amazon Web Services, Inc.
+",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),Remote,Remote,28,1,0,0,0,1,1
+332,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Denver, CO,23,0,0,0,0,0,0
+334,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+335,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+336,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+337,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+338,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+339,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+340,Principal Data Scientist - Engineering Analytics,170000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Nevada,Nevada,22,0,1,0,1,1,0
+341,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+342,"Data Scientist, Marketing Science Research: Creative Shop",114330,4.3,"Meta
+",10000+ Employees,2004,Company - Public,Internet,Information Technology,$10+ billion (USD),San Francisco, CA,18,0,0,0,0,0,0
+343,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+345,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+346,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+348,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+349,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+350,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+351,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+352,Senior Data Scientist,181500,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+353,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+355,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+356,Sr. Data Scientist,134274,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+357,Data Scientist,111199,3.4,"Cerebral
+",1001 to 5000 Employees,2020,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),San Francisco, CA,2,0,0,0,0,0,0
+358,Data Scientist - Intermediate,107163,4.1,"Bayer
+",10000+ Employees,1863,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),San Francisco, CA,159,1,0,1,0,0,0
+360,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+361,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Denver, CO,23,0,0,0,0,0,0
+362,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+363,AWS Data Scientist,167500,3.8,"Amazon Web Services, Inc.
+",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),Remote,Remote,28,1,0,0,0,1,1
+365,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+366,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+367,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+368,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+369,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+371,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+372,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+373,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+374,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+375,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+376,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+377,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+378,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+379,Data Scientist,111199,3.4,"Cerebral
+",1001 to 5000 Employees,2020,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),San Francisco, CA,2,0,0,0,0,0,0
+380,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+381,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+383,Senior Data Scientist,181500,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+384,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+385,"Data Scientist, Basketball Integrity",91252,3.9,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+386,Data Scientist - Intermediate,107163,4.1,"Bayer
+",10000+ Employees,1863,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),San Francisco, CA,159,1,0,1,0,0,0
+388,Sr. Data Scientist,134274,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+389,"Senior Data Scientist, ESG Innovation and Solutions",156400,4.1,"S&P Global
+",10000+ Employees,1888,Company - Public,Financial Analytics & Research,Finance,$5 to $10 billion (USD),Boston, MA,134,1,0,1,1,1,0
+390,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+391,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+392,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+393,"Senior Data Scientist - People and Organizational Performance, Org Analytics",125043,4.4,"McKinsey & Company
+",10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,Atlanta, GA,96,0,0,0,0,0,0
+395,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+396,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+397,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+398,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+400,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Denver, CO,23,0,0,0,0,0,0
+401,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+402,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+403,Lead Data Scientist - Customer Data Science,153275,3.5,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+405,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+406,Manager - Statistical Analyst,132750,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+409,Principal Data Scientist - Engineering Analytics,170000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Nevada,Nevada,22,0,1,0,1,1,0
+410,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+411,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+412,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+413,"Data Scientist, Marketing Science Research: Creative Shop",114330,4.3,"Meta
+",10000+ Employees,2004,Company - Public,Internet,Information Technology,$10+ billion (USD),San Francisco, CA,18,0,0,0,0,0,0
+414,"Data Scientist, Basketball Integrity",91252,3.9,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+415,Data Scientist - Intermediate,107163,4.1,"Bayer
+",10000+ Employees,1863,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),San Francisco, CA,159,1,0,1,0,0,0
+416,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+417,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+418,Data Scientist,122631,4.4,"Denken Solutions Inc
+",201 to 500 Employees,2010,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+419,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+420,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+421,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+422,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+423,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+425,Data Scientist - Engineering Analytics,170000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Nevada,Nevada,22,0,1,1,1,1,0
+426,"Senior Data Scientist - People and Organizational Performance, Org Analytics",125043,4.4,"McKinsey & Company
+",10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,Atlanta, GA,96,0,0,0,0,0,0
+427,AWS Data Scientist,167500,3.8,"Amazon Web Services, Inc.
+",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),Remote,Remote,28,1,0,0,0,1,1
+428,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+429,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+430,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+431,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+432,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Denver, CO,23,0,0,0,0,0,0
+434,Principal Data Scientist - Engineering Analytics,170000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Nevada,Nevada,22,0,1,0,1,1,0
+435,"Data Scientist, Basketball Integrity",91252,3.9,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+436,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+438,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+439,"Data Scientist, Marketing Science Research: Creative Shop",114330,4.3,"Meta
+",10000+ Employees,2004,Company - Public,Internet,Information Technology,$10+ billion (USD),San Francisco, CA,18,0,0,0,0,0,0
+440,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+441,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+443,Manager - Statistical Analyst,132750,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+444,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.2,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+445,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+446,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+447,"Senior Manager, Advanced Analytics Data Scientist",104841,4.0,"Chanel
+",10000+ Employees,1924,Company - Private,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),New York, NY,98,0,0,0,0,1,0
+448,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+450,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+451,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+452,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+453,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+455,Data Scientist - Engineering Analytics,170000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Nevada,Nevada,22,0,1,1,1,1,0
+456,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+457,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+458,AWS Data Scientist,167500,3.8,"Amazon Web Services, Inc.
+",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),Remote,Remote,28,1,0,0,0,1,1
+459,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+460,"Senior Data Scientist - People and Organizational Performance, Org Analytics",125043,4.4,"McKinsey & Company
+",10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,Atlanta, GA,96,0,0,0,0,0,0
+461,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+462,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Denver, CO,23,0,0,0,0,0,0
+463,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+464,Principal Data Scientist - Engineering Analytics,170000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Nevada,Nevada,22,0,1,0,1,1,0
+465,Manager - Statistical Analyst,132750,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+466,"Data Scientist, Basketball Integrity",91252,3.9,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+467,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+468,"Data Scientist, Marketing Science Research: Creative Shop",114330,4.3,"Meta
+",10000+ Employees,2004,Company - Public,Internet,Information Technology,$10+ billion (USD),San Francisco, CA,18,0,0,0,0,0,0
+469,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+470,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+473,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+474,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+475,Senior Data Scientist - Marketing Analytics (Remote Eligible),126000,4.2,"Redfin
+",1001 to 5000 Employees,2004,Company - Public,Real Estate,Real Estate,Unknown / Non-Applicable,Remote,Remote,18,0,0,0,0,0,0
+476,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+477,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+479,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+480,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+481,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+482,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+483,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+484,"Senior Data Scientist - People and Organizational Performance, Org Analytics",125043,4.4,"McKinsey & Company
+",10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,Atlanta, GA,96,0,0,0,0,0,0
+486,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+487,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+488,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+489,Data Scientist - Engineering Analytics,170000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Nevada,Nevada,22,0,1,1,1,1,0
+491,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+492,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Denver, CO,23,0,0,0,0,0,0
+493,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+494,Manager - Statistical Analyst,132750,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+495,"Data Scientist, Basketball Integrity",91252,3.9,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+496,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+497,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+499,Principal Data Scientist - Engineering Analytics,170000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Nevada,Nevada,22,0,1,0,1,1,0
+501,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+502,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+503,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+504,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+505,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+506,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+507,"Senior Data Scientist, ESG Innovation and Solutions",156400,4.1,"S&P Global
+",10000+ Employees,1888,Company - Public,Financial Analytics & Research,Finance,$5 to $10 billion (USD),Boston, MA,134,1,0,1,1,1,0
+508,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+510,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+511,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+512,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+513,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+514,"Senior Data Scientist - People and Organizational Performance, Org Analytics",125043,4.4,"McKinsey & Company
+",10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,Atlanta, GA,96,0,0,0,0,0,0
+516,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+517,"Data Scientist, Freemium Innovation",139731,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+518,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+519,Data Scientist - Engineering Analytics,170000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Nevada,Nevada,22,0,1,1,1,1,0
+521,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+522,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Denver, CO,23,0,0,0,0,0,0
+523,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+524,Manager - Statistical Analyst,132750,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+525,"Data Scientist, Basketball Integrity",91252,3.9,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+526,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+527,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+529,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+530,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+531,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+532,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+534,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+535,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+536,"Senior Data Scientist, ESG Innovation and Solutions",156400,4.1,"S&P Global
+",10000+ Employees,1888,Company - Public,Financial Analytics & Research,Finance,$5 to $10 billion (USD),Boston, MA,134,1,0,1,1,1,0
+538,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+539,Senior Data Analyst,97104,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+540,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+541,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+542,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+543,"Senior Data Scientist - People and Organizational Performance, Org Analytics",125043,4.4,"McKinsey & Company
+",10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,Atlanta, GA,96,0,0,0,0,0,0
+545,"Data Scientist, Freemium Marketing Analytics",107170,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+546,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+547,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+548,Data Scientist - Engineering Analytics,170000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Nevada,Nevada,22,0,1,1,1,1,0
+550,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Denver, CO,23,0,0,0,0,0,0
+551,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+552,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+553,"Data Scientist, Game Analytics & Strategy",112130,3.9,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+554,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+555,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+556,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+557,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+559,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+560,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+561,"Senior Data Scientist, ESG Innovation and Solutions",156400,4.1,"S&P Global
+",10000+ Employees,1888,Company - Public,Financial Analytics & Research,Finance,$5 to $10 billion (USD),Boston, MA,134,1,0,1,1,1,0
+562,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+564,Senior Data Analyst,97104,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+565,Manager - Statistical Analyst,132750,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+566,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+569,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+570,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+571,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+572,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+573,"Senior Data Scientist - People and Organizational Performance, Org Analytics",125043,4.4,"McKinsey & Company
+",10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,Atlanta, GA,96,0,0,0,0,0,0
+575,"Data Scientist, Freemium Marketing Analytics",107170,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+576,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+577,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Remote,Remote,23,0,0,0,0,0,0
+578,"Data Scientist, Basketball Integrity",91252,3.9,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+580,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+581,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+582,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+583,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+584,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+585,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+586,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+587,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+590,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+591,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+592,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+593,"Senior Manager, Advanced Analytics Data Scientist",104841,4.0,"Chanel
+",10000+ Employees,1924,Company - Private,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),New York, NY,98,0,0,0,0,1,0
+594,Senior Data Scientist - Marketing Analytics (Remote Eligible),126000,4.2,"Redfin
+",1001 to 5000 Employees,2004,Company - Public,Real Estate,Real Estate,Unknown / Non-Applicable,Remote,Remote,18,0,0,0,0,0,0
+595,"Data Scientist, Marketing Analytics & Insights",96004,4.0,"Sony Pictures Entertainment, Inc.
+",5001 to 10000 Employees,1989,Subsidiary or Business Segment,Motion Picture Production & Distribution,Media,$5 to $10 billion (USD),Culver City, CA,33,0,0,0,0,0,0
+597,Senior Data Scientist,181500,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+598,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+599,Senior Data Analyst,97104,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+600,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+601,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+602,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+603,"Data Scientist, Freemium Marketing Analytics",107170,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+604,"Senior Data Scientist - People and Organizational Performance, Org Analytics",125043,4.4,"McKinsey & Company
+",10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,Atlanta, GA,96,0,0,0,0,0,0
+606,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+607,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Remote,Remote,23,0,0,0,0,0,0
+608,"Data Scientist, Basketball Integrity",91252,3.9,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+610,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+611,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+612,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+613,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+614,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+616,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+617,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+618,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+619,"Data Scientist, Marketing Analytics & Insights",96004,4.0,"Sony Pictures Entertainment, Inc.
+",5001 to 10000 Employees,1989,Subsidiary or Business Segment,Motion Picture Production & Distribution,Media,$5 to $10 billion (USD),Culver City, CA,33,0,0,0,0,0,0
+620,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+621,Senior Data Scientist - Marketing Analytics (Remote Eligible),126000,4.2,"Redfin
+",1001 to 5000 Employees,2004,Company - Public,Real Estate,Real Estate,Unknown / Non-Applicable,Remote,Remote,18,0,0,0,0,0,0
+622,Lead Data Scientist,133311,3.3,"Activision
+",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Games,Media,$500 million to $1 billion (USD),Santa Monica, CA,43,0,0,0,0,0,0
+623,"Senior Manager, Advanced Analytics Data Scientist",104841,4.0,"Chanel
+",10000+ Employees,1924,Company - Private,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),New York, NY,98,0,0,0,0,1,0
+624,"Data Scientist, Infrastructure",162533,4.1,"Pinterest
+",1001 to 5000 Employees,2010,Company - Public,Internet,Information Technology,$100 to $500 million (USD),San Francisco, CA,12,0,0,0,0,0,0
+626,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+627,Senior Data Scientist,181500,4.0,"Charles Schwab
+",10000+ Employees,1973,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),Lone Tree, CO,49,0,0,0,0,0,0
+628,data scientist - People Analytics,115903,3.8,"Starbucks
+",10000+ Employees,1971,Company - Public,Fast-Food & Quick-Service Restaurants,"Restaurants, Bars & Food Services",$10+ billion (USD),Seattle, WA,51,0,0,0,0,0,0
+630,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+631,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+632,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+633,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+635,"Data Scientist, Freemium Marketing Analytics",107170,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+636,"Senior Data Scientist - People and Organizational Performance, Org Analytics",125043,4.4,"McKinsey & Company
+",10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,Atlanta, GA,96,0,0,0,0,0,0
+637,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+638,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+639,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+640,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Denver, CO,23,0,0,0,0,0,0
+641,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.6,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+642,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+643,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+645,"Data Scientist, Basketball Integrity",91252,4.2,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+647,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+648,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+649,Data Science Advisor (Express Scripts) - Evernorth,127700,3.8,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+650,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+651,"Senior Manager, Advanced Analytics Data Scientist",104841,4.0,"Chanel
+",10000+ Employees,1924,Company - Private,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),New York, NY,98,0,0,0,0,1,0
+652,"Senior Data Scientist, ESG Innovation and Solutions",156400,4.1,"S&P Global
+",10000+ Employees,1888,Company - Public,Financial Analytics & Research,Finance,$5 to $10 billion (USD),Boston, MA,134,1,0,1,1,1,0
+653,Senior Staff Data Scientist (Marketing Personalization),136189,4.2,"Udemy
+",501 to 1000 Employees,2010,Company - Public,Education Training Services,Education,Unknown / Non-Applicable,San Francisco, CA,12,0,0,0,0,0,0
+654,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+656,Senior Data Scientist - Marketing Analytics (Remote Eligible),126000,4.2,"Redfin
+",1001 to 5000 Employees,2004,Company - Public,Real Estate,Real Estate,Unknown / Non-Applicable,Remote,Remote,18,0,0,0,0,0,0
+658,"Data Scientist, Marketing Analytics & Insights",96004,4.0,"Sony Pictures Entertainment, Inc.
+",5001 to 10000 Employees,1989,Subsidiary or Business Segment,Motion Picture Production & Distribution,Media,$5 to $10 billion (USD),Culver City, CA,33,0,0,0,0,0,0
+659,"Senior Data Scientist - Analytics, FinCrimes",130758,4.0,"Robinhood
+",1001 to 5000 Employees,2013,Company - Public,Brokerage Services,Finance,Unknown / Non-Applicable,Menlo Park, CA,9,0,0,0,0,0,0
+660,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+661,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+662,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+664,"Senior Data Scientist - People and Organizational Performance, Org Analytics",125043,4.4,"McKinsey & Company
+",10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,Atlanta, GA,96,0,0,0,0,0,0
+665,Data Scientist - Machine Learning,147696,4.0,"Twitch
+",1001 to 5000 Employees,2011,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,San Francisco, CA,11,0,0,0,0,0,0
+666,"Data Scientist, Freemium Marketing Analytics",107170,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+667,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+668,Lead Data Scientist - Customer Data Science,153275,3.9,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+670,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+671,"Staff Data Scientist, Platform",150200,4.5,"Salesforce
+",10000+ Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),Denver, CO,23,0,0,0,0,0,0
+672,"Senior Data Scientist, Product Intelligence",150110,4.4,"Zoom Video Communications, Inc.
+",1001 to 5000 Employees,2011,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),San Francisco, CA,11,0,0,0,0,0,0
+673,"Data Scientist, Basketball Integrity",91252,3.9,"the NBA
+",1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,New York, NY,76,0,0,0,0,0,0
+674,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
+675,"Senior Director, Data Science (Commercial Analytics) (Open to remote work, except the following locations: SD, VT, and WV)",199000,4.2,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+677,"Data Scientist, Marketing Analytics",120445,3.8,"Publix
+",10000+ Employees,1930,Company - Private,Grocery Stores & Supermarkets,Retail,$10+ billion (USD),Lakeland, FL,92,0,0,0,0,0,0
+678,"Senior Manager, Advanced Analytics Data Scientist",104841,4.0,"Chanel
+",10000+ Employees,1924,Company - Private,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),New York, NY,98,0,0,0,0,1,0
+679,"Senior Data Scientist, ESG Innovation and Solutions",156400,4.1,"S&P Global
+",10000+ Employees,1888,Company - Public,Financial Analytics & Research,Finance,$5 to $10 billion (USD),Boston, MA,134,1,0,1,1,1,0
+680,Data Science Advisor (Express Scripts) - Evernorth,127700,3.9,"Cigna
+",10000+ Employees,1865,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),Saint Louis, MO,157,1,1,1,1,1,1
+681,"Senior Data Scientist (Open to remote work, except the following locations: SD, VT, and WV)",150000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+682,Data Scientist (University Graduate),151000,4.4,"Indeed
+",10000+ Employees,2004,Company - Private,Internet,Information Technology,$2 to $5 billion (USD),Remote,Remote,18,0,1,0,1,0,0
+684,Senior Staff Data Scientist (Marketing Personalization),136189,4.2,"Udemy
+",501 to 1000 Employees,2010,Company - Public,Education Training Services,Education,Unknown / Non-Applicable,San Francisco, CA,12,0,0,0,0,0,0
+685,Senior Data Scientist - Marketing Analytics (Remote Eligible),126000,4.2,"Redfin
+",1001 to 5000 Employees,2004,Company - Public,Real Estate,Real Estate,Unknown / Non-Applicable,Remote,Remote,18,0,0,0,0,0,0
+687,"Lead Data Scientist, Marketing Analytics",125496,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+688,"Senior Data Scientist - Analytics, FinCrimes",130758,4.0,"Robinhood
+",1001 to 5000 Employees,2013,Company - Public,Brokerage Services,Finance,Unknown / Non-Applicable,Menlo Park, CA,9,0,0,0,0,0,0
+689,"Data Scientist, Operations Data Science",95000,4.5,"Google
+",10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),Mountain View, CA,24,1,0,0,0,0,0
+690,Data Science Manager - Communities & Servers,96438,4.4,"Discord
+",51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$1 to $5 million (USD),San Francisco, CA,7,0,0,0,0,0,0
+691,"Staff Data Scientist, Platform",150200,4.6,"Slack
+",1001 to 5000 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,Denver, CO,8,0,0,0,0,0,0
+692,Senior Data Analyst (Loyalty & Player Engagement),119944,4.0,"PlayStation Global
+",5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Games,Media,$10+ billion (USD),San Mateo, CA,28,0,0,0,0,0,0
+694,"Data Scientist, Freemium Marketing Analytics",107170,4.2,"Spotify
+",5001 to 10000 Employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,New York, NY,16,0,0,0,0,0,0
+695,Computer Engineer (Data Scientist),140014,3.5,"US Internal Revenue Service
+",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable,Fresno, CA,160,0,0,0,0,0,0
+696,Lead Data Scientist - Customer Data Science,153275,3.5,"Hulu
+",1001 to 5000 Employees,2007,Company - Private,TV Broadcast & Cable Networks,Media,$1 to $2 billion (USD),Santa Monica, CA,15,0,1,0,1,0,0
+697,Data Scientist,117000,4.1,"Nike
+",10000+ Employees,1972,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),Beaverton, OR,50,0,0,0,0,0,0
+698,Data Scientist - Engineering Analytics,170000,3.9,"Verizon
+",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),Nevada,Nevada,22,0,1,1,1,1,0
+699,"Data Scientist - Tiktok Ads, Growth Marketing",147032,3.5,"TikTok
+",1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,Mountain View, CA,6,0,0,0,0,0,0
